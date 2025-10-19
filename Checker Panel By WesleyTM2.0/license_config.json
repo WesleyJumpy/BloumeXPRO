@@ -1,0 +1,13 @@
+{
+  "authenticated": false,
+  "username": "",
+  "user_ip": "",
+  "hwid": "",
+  "created_date": "",
+  "last_login": "",
+  "expires": "",
+  "license_type": "",
+  "license_expiry": "",
+  "license_timeleft": "",
+  "is_valid": false
+}
