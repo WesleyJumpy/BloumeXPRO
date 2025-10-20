@@ -47,15 +47,20 @@ Screenshot 7
 
 ---
 
-## ⭐ Les 9 Services + 7 Nouveaux
+## ⭐ Les 16 Services
 
-| 🎭 Streaming | 🌐 VPN | 🎮 Gaming | 🍽️ Services |
-|-------------|--------|---------|-----------|
+| 🎭 Streaming (11) | 🌐 VPN (2) | 🎮 Gaming (1) | 🍽️ Services (2) |
+|---|---|---|---|
 | ADN | Hotspot Shield | Steam | O'Tacos |
-| Disney+ | Panda VPN | | |
-| Crunchyroll | | | |
+| Disney+ | Panda VPN | | Letyshops |
+| Crunchyroll | | | SFR |
 | CapCut | | | |
 | Napster | | | |
+| Fox | | | |
+| Molotov | | | |
+| Pureflix | | | |
+| Duolingo | | | |
+| UFC Fight Pass | | | |
 
 ---
 
