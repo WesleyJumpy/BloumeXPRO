@@ -1,7 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release_date": "2025-10-20",
-  "release_notes": "✨ Nouveau système de mise à jour automatique\n🐛 Corrections de bugs",
-  "download_url": "https://github.com/WesleyJumpy/panle-checker/releases/download/v1.0.1/panel_checker.exe",
-  "critical": false
+  "release_notes": "🎉 V1.0.2 - MISE À JOUR MAJEURE\n\n🎯 7 NOUVEAUX CHECKERS:\n✅ Duolingo\n✅ Fox\n✅ Letyshops\n✅ Molotov\n✅ Pureflix\n✅ SFR\n✅ UFC Fight Pass\n\n� 3 NOUVELLES FONCTIONNALITÉS:\n💭 Donner un Avis - Partage ton expérience\n📝 Faire des Reports - Signale les bugs\n💡 Idées d'Amélioration - Propose des features\n\n🔄 SYSTÈME DE MISE À JOUR:\n🤖 Vérification automatique au démarrage\n� Bouton dans Settings pour vérifier manuellement\n🌐 Notifications en temps réel\n⬇️ Téléchargement direct depuis le panel\n\n🐛 Corrections de bugs & Améliorations de performance",
+  "download_url": "https://github.com/WesleyJumpy/panle-checker/releases/latest",
+  "critical": false,
+  "message": "🎉 V1.0.2 disponible! 7 nouveaux checkers + 3 fonctionnalités + système de mise à jour!"
 }
