@@ -4,28 +4,7 @@
 
 ---
 
-## 📸 Aperçu
 
-Screenshot 1 
-![Screenshot 1](./images/1A3B234D-4A83-4A15-A214-4A9E4E4338F0.png)
-
-Screenshot 2
-![Screenshot 2](./images/23A4D613-0860-413E-98D3-A7A978A6B4A7.png)
-
-Screenshot 3
-![Screenshot 3](./images/55DDD097-55D7-49FF-95C3-376A3B90DA68.png)
-
-Screenshot 4
-![Screenshot 4](./images/770EF9FD-1265-46DC-812C-0194EC54D6EC.png)
-
-Screenshot 5
-![Screenshot 5](./images/A27C1D09-029B-4B9A-849C-153638AFBA84.png)
-
-Screenshot 6
-![Screenshot 6](./images/BA4E6B52-6BB4-4932-8F9B-0BF6FDB226EA.png)
-
-Screenshot 7
-![Screenshot 7](./images/BB33DD69-94E9-4AF6-8A4D-03EBEA03A34D.png)
 
 ---
 
